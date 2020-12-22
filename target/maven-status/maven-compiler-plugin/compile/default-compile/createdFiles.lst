@@ -1,0 +1,5 @@
+com\pam\authentication\controller\LoginController.class
+com\pam\authentication\model\AuthRequest.class
+com\pam\authentication\AuthenticationApplication.class
+com\pam\authentication\service\AuthService.class
+com\pam\authentication\util\AuthRequestBuilder.class
